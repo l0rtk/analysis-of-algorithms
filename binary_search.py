@@ -1,5 +1,5 @@
 
-
+# O(logn)
 def binary_search(lst,target):
 
     L = 0

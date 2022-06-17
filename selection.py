@@ -8,7 +8,7 @@ def swap(array,index1,index2):
 
     return array
 
-
+# O(i=0 to K ΣN-i)   N - size of the list
 def selection(array,k):
     for i in range(1,k+1):
         largestEl = array[0]

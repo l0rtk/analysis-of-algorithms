@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-
+// O(N)
 int sequential_sort(int array[],int arrSize, int target){
 
 	int i;
